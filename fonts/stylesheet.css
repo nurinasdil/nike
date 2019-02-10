@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Trueno';
+    src: url('TruenoUltBlk.eot');
+    src: url('TruenoUltBlk.eot?#iefix') format('embedded-opentype'),
+        url('TruenoUltBlk.woff2') format('woff2'),
+        url('TruenoUltBlk.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Trueno';
+    src: url('TruenoBd.eot');
+    src: url('TruenoBd.eot?#iefix') format('embedded-opentype'),
+        url('TruenoBd.woff2') format('woff2'),
+        url('TruenoBd.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Trueno';
+    src: url('TruenoLt.eot');
+    src: url('TruenoLt.eot?#iefix') format('embedded-opentype'),
+        url('TruenoLt.woff2') format('woff2'),
+        url('TruenoLt.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+

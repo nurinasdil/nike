@@ -1,0 +1,225 @@
+@media screen and (max-width: 575.98px) {
+    a{font-size: 5px; text-decoration: underline;}
+    .filters{    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    grid-gap: 15px;}
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .navbar-collapse{
+        padding-bottom: 50px;
+    }
+    .b-banner{
+        text-align: center;
+		padding-bottom: 35px;
+    }
+    .b-menu .navbar-light .navbar-nav .nav-link{
+        text-align: center;
+        font-size: 26px;
+        padding-bottom: 30px;
+    }
+    .b-banner__single h1{
+        margin:0;
+        font-size: 60px;
+    }
+    .b-banner__single h2{
+        font-size: 40px;
+    }
+    .card h1 {
+        font-size: 20px;}
+    .b-plus__text{
+        margin-top: 0;
+    }
+    
+    .b-plus__logo a{
+        left:84px;
+        font-size: 14px;
+        padding: 10px 15px;
+    }
+    .b-plus__button{
+            bottom: 20px;
+    padding: 10px 20px;
+    font-size: 14px;
+    right: 40px;
+    }
+    
+    .b-card__img{
+        top:-23px;
+        left:0;}
+    
+        .brand ul{
+            line-height: 7;
+    }
+    .brand ul li{
+        margin-left: 83px;
+    }
+    blockquote{
+        font-size: 14px;
+    }
+    
+    .single-latest{
+        text-align: center;
+        padding-bottom: 2rem;
+    }
+    .help{
+        line-height: 0;
+        padding: 30px 0;
+    }
+	.help-button{
+		text-align: center;
+	}
+    .help-button .btn{
+        font-size: 14px;
+        padding: 10px 20px;
+    }
+    .help-left{
+        padding-top: 0;
+        float:none;
+    }
+	.single-help{
+		padding-bottom: 20px;
+		text-align: center;
+	}
+    .b-comment__comment{
+        left:9px;
+    }
+    .b-menu .navbar-light .navbar-nav .nav-link:after{
+        display: none;
+    }
+    .down{
+        text-align: center;
+    }
+    .footer-down ul.nav{
+        float: none;
+		justify-content: center;
+    }
+
+  .filters{    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 15px;}
+
+}
+@media (min-width: 574px) and (max-width: 767px) {
+    .b-header a{
+        padding: .5rem 0.7rem;
+		text-decoration: none;
+    }
+    .b-header__first{
+        display: flex;
+        justify-content: center;
+    }
+     .b-header__last{
+        display: flex;
+        justify-content: center;
+    }
+     .b-menu .navbar-light .navbar-nav .nav-link{
+        text-align: center;
+        font-size: 16px;
+        padding-bottom: 15px;
+		 text-decoration: none;
+    }
+     .b-banner{
+        text-align: center;
+		 padding-bottom:20px;
+    }
+	.b-banner__single h1{
+        margin:0;
+        font-size: 45px;
+    }
+    .b-banner__single h2{
+        font-size: 25px;
+    }
+	.b-banner__single p{
+		font-size: 12px;
+	}
+	 .card h1 {
+        font-size: 14px;}
+    .b-plus__text{
+        margin-top: 0;
+    }
+    
+    .b-plus__logo a{
+        left:68px;
+        font-size: 10px;
+        padding: 10px 15px;
+    }
+    .b-plus__button{
+            bottom: 20px;
+    padding: 10px 20px;
+    font-size: 12px;
+    right: 72p5;
+		text-decoration: none;
+    }
+	.b-card__img{
+		display: none;
+	}
+	
+	 .brand ul{
+            line-height: 7;
+    }
+    .brand ul li{
+		margin-left: 83px;}
+	
+    .filters{    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    grid-gap: 15px;}
+    
+    
+    
+    
+    
+    
+    
+    
+     .brand ul{
+            line-height: 5;
+    }
+    .brand ul li{
+        margin-left: 75px;
+    }
+    
+    
+    .b-comment__comment{
+        position: absolute;
+        bottom:-120px;
+		padding: 0 25px;
+		font-size: 14px;
+    }
+	.latest h1{
+		font-size: 24px;
+	}
+    
+     .single-latest{
+        text-align: center;
+        padding-bottom: 2rem;
+    }
+    .help-right h1 {
+    font-size: 18px;
+    }
+    .help-right p{
+        font-size: 14px;
+    }
+    .help-left {
+        padding-right: 14px;
+		float: none;
+    }
+	.single-help{
+		text-align: center;
+	}
+    .help-button{
+        text-align: center;
+    }
+	.help-button .btn{
+		font-size: 14px;
+		text-decoration: none;
+	}
+	
+	  .down{
+        text-align: center;
+    }
+    .footer-down ul.nav{
+        float: none;
+		justify-content: center;
+    }
+
+}
